@@ -10,7 +10,7 @@ A simple Solana onchain arbitrage bot for arbitrage opportunities. This bot calc
 - `mainnet/`: fork mainnet account states to test swap input/output estimates
 
 ## Current version
-This is primary version, not advanced. To get more efficient arbitragy, you need to get advanced version, feel free to reach out of me((https://t.me/SOLBenjaminCup))
+This is primary version, not advanced. To get more efficient arbitragy, you need to get advanced version, feel free to reach out of me((https://t.me/heaven9099))
 
 ## Current version dexs supported 
 - serum 
