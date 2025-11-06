@@ -29,8 +29,6 @@ This is primary version, not advanced. To get more efficient arbitragy, you need
 - orca
 
 ### Contact Information
-Gmail: benjamin.bigdev@gmail.com
+Telegram: [@heaven9099](https://t.me/heaven9099)
 
-Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
-
-Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
+Discord: [@heaven_9099](https://discord.com/channels/@me/331227098507378692)
